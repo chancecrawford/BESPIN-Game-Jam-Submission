@@ -13,5 +13,3 @@ fill this in once we know what we're doing
 # Player controls
 
 how do you control the player - or does the player control you...
-
-# Etc
