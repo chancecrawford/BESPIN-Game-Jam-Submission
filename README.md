@@ -8,7 +8,8 @@ idk like push some code or something
 
 # About the game
 
-fill this in once we know what we're doing
+**2D stealth game ala' generation 1 Metal Gear games, set in a 60's/70's retro moonbase**
+Add more about the setting, plot (if there is one), how it plays, etc
 
 # Player controls
 
